@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	<rect y="0" width="30" height="119.8"/>
+	<rect x="120" y="150" width="30" height="119.8"/>
+	<rect x="300" y="150" width="30" height="119.8"/>
+	<rect x="180" y="0" width="30" height="119.8"/>
+	<rect x="360" y="0" width="30" height="119.8"/>
+	<rect x="420" y="0" width="30" height="119.8"/>
+	<path d="M150,0H60v120h90V0z M120,90H90V30h30V90z"/>
+	<path d="M330,0h-90v120h90V0z M300,90h-30V30h30V90z"/>
+	<path d="M270,150h-90v120h90V150z M240,240h-30v-60h30V240z"/>
+	<path d="M0,270h90V150H0V270z M30,180h30v60H30V180z"/>
+	<path d="M452,212h-90v30h90c16.542,0,30,13.458,30,30s-13.458,30-30,30H167c-41.355,0-75,33.645-75,75s33.645,75,75,75h75v60h135   c41.355,0,75-33.645,75-75s-33.645-75-75-75H242v60h-75c-24.813,0-45-20.187-45-45s20.187-45,45-45h285c33.084,0,60-26.916,60-60   S485.084,212,452,212z M272,452h60v30h-60V452z M422,437c0,24.813-20.187,45-45,45h-15v-90h15C401.813,392,422,412.187,422,437z    M272,392h60v30h-60V392z"/>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
